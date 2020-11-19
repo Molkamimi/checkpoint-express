@@ -1,0 +1,16 @@
+h1 {
+  color: rgb(158, 32, 53);
+  justify-content: center;
+  margin-left: 30%;
+}
+body {
+  background-color: rgb(248, 165, 179);
+}
+h2 {
+  color: blue;
+}
+h4 {
+  color: red;
+
+  font-size: 28px;
+}
